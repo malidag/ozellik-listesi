@@ -11,3 +11,4 @@ Hata;
 
 
 8-Uzak repo son hali;
+![Ekran görüntüsü 2025-03-11 002629](https://github.com/user-attachments/assets/113b49e8-ac58-47ab-a291-f93b84c22b90)
