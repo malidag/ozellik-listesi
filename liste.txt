@@ -1,6 +1,6 @@
 X özellik listesi
-1-Grok yapay zeka desteği ile paylaşımları doğrulama
+1-Space odası özelliği ile tartışma ortamlarını dinleme
 2-Sana özel menüsü ile ilgin olan fakat takip etmediğin paylaşımları görme
-3-Space odası özelliği ile tartışma ortamlarını dinleme
+3-Grok yapay zeka desteği ile paylaşımları doğrulama
 4-Basit kullanım arayüzü ile rahat bir kullanım
 5-Basit kullanım
